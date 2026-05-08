@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/<YOUR_USERNAME>/<YOUR_REPO>.git
+    repoURL: https://github.com/prajwal-dalvi/appscrip-assignment.git
     targetRevision: HEAD
     path: manifests           # folder containing NGINX YAMLs
 
